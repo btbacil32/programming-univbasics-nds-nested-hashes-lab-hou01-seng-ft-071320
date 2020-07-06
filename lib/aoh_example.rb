@@ -15,7 +15,7 @@ result = [
 
 result
 end
-result
+assembled_aoh
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
