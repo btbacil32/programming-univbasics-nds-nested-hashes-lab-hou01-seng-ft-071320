@@ -41,7 +41,7 @@ def aoh_update(aoh, row, key, new_value)
   { :name => "Don Gately", :occupation => "Live-in Staff" },{ :name => "Joelle van Dyne", :occupation => "Radio Personality" },{ :name => "Pat Monteseian", :occupation => "Staff" },{ :name =>  "Kate Gompert", :occupation => "None" },{ :name => "Bruce Green", :occupation => "Fan of Mildred" }]
   
   
-  result[1][:name] = "Joelle van Dyne (PGOT)"
+  result[1][:name] = "Joelle van Dyne (PGOAT)"
   
   result
   
